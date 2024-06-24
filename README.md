@@ -1,1 +1,1 @@
-# zustand exanple
+# zustand state-management example
